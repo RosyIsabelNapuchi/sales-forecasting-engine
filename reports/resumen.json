@@ -1,0 +1,17 @@
+{
+  "lineas": 10,
+  "corte": "2026-08",
+  "horizonte_meses": 16,
+  "cartera_aceptada_en": [
+    "Proyectos"
+  ],
+  "exogenas_aceptadas_en": [],
+  "modelos_elegidos": {
+    "ridge_calendar": 5,
+    "theta": 2,
+    "ses": 1,
+    "combo_ml": 1,
+    "extra_trees": 1,
+    "gbm_huber": 1
+  }
+}

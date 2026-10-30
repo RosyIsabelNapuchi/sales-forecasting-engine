@@ -1,0 +1,28 @@
+linea,sector,participacion
+Rodamientos,MINERIA,0.7
+Rodamientos,PESCA,0.15
+Rodamientos,INDUSTRIA,0.15
+Bombas,PESCA,0.55
+Bombas,MINERIA,0.3
+Bombas,INDUSTRIA,0.15
+Valvulas,MINERIA,0.5
+Valvulas,CONSTRUCCION,0.3
+Valvulas,INDUSTRIA,0.2
+Sellos,PESCA,0.4
+Sellos,INDUSTRIA,0.4
+Sellos,MINERIA,0.2
+Transmision,MINERIA,0.6
+Transmision,INDUSTRIA,0.25
+Transmision,PESCA,0.15
+Filtros,MINERIA,0.75
+Filtros,PESCA,0.14
+Filtros,INDUSTRIA,0.11
+Instrumentacion,INDUSTRIA,0.6
+Instrumentacion,MINERIA,0.4
+Servicios tecnicos,MINERIA,0.6
+Servicios tecnicos,PESCA,0.2
+Servicios tecnicos,INDUSTRIA,0.2
+Proyectos,MINERIA,0.6
+Proyectos,CONSTRUCCION,0.4
+Refrigeracion,PESCA,0.6
+Refrigeracion,INDUSTRIA,0.4

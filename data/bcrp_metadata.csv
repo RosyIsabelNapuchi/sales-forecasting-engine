@@ -1,0 +1,38 @@
+alias,codigo,grupo,nombre_bcrp
+fx_usdpen,PN01210PM,MACRO,Tipo de cambio - promedio del periodo (S/ por US$) - Bancario - Promedio
+ipc_indice,PN38705PM,MACRO,Índice de precios Lima Metropolitana (índice Dic.2021 = 100) - Índice de Precios al Consumidor (IPC)
+inflacion_yoy,PN01273PM,MACRO,Índice de precios Lima Metropolitana (var% 12 meses) - IPC
+pbi_total,PN01770AM,MACRO,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI
+pbi_comercio,PN01767AM,MACRO,Producto bruto interno y demanda interna (índice 2007 = 100) - Comercio
+expect_economia_3m,PD38045AM,EXPECTATIVAS,Expectativas empresariales totales - Índice de expectativas de la economía a 3 meses
+expect_sector_3m,PD38046AM,EXPECTATIVAS,Expectativas empresariales totales - Índice de expectativas del sector a 3 meses
+expect_demanda_3m,PD38047AM,EXPECTATIVAS,Expectativas empresariales totales - Índice de expectativas de la demanda a 3 meses
+expect_economia_12m,PD37981AM,EXPECTATIVAS,Expectativas empresariales totales - Índice de expectativas de la economía a 12 meses
+expect_demanda_12m,PD39751AM,EXPECTATIVAS,Expectativas empresariales totales - Índice de expectativas de demanda por sus productos a 12 meses
+expect_sector_12m,PD39752AM,EXPECTATIVAS,Expectativas empresariales totales - Índice de expectativas del sector a 12 meses
+import_total,PN38718BM,COMERCIO_EXTERIOR,Balanza comercial - valores FOB (millones US$) - Importaciones
+import_insumos,PN38720BM,COMERCIO_EXTERIOR,Balanza comercial - valores FOB (millones US$) - Importaciones - Insumos
+import_bienes_capital,PN38721BM,COMERCIO_EXTERIOR,Balanza comercial - valores FOB (millones US$) - Importaciones - Bienes de Capital
+export_tradicional,PN38715BM,COMERCIO_EXTERIOR,Balanza comercial - valores FOB (millones US$) - Exportaciones - Productos Tradicionales
+export_no_tradicional,PN38716BM,COMERCIO_EXTERIOR,Balanza comercial - valores FOB (millones US$) - Exportaciones - Productos no Tradicionales
+precio_harina_pescado,PN01649XM,COMMODITIES,Cotizaciones de productos (promedio del periodo) - Harina de Pescado - Hamburgo (US$ por toneladas)
+precio_cobre,PN01652XM,COMMODITIES,Cotizaciones de productos (promedio del periodo) - Cobre - LME (¢US$ por libras)
+precio_oro,PN01654XM,COMMODITIES,Cotizaciones de productos (promedio del periodo) - Oro - LME (US$ por onzas troy)
+precio_zinc,PN01657XM,COMMODITIES,Cotizaciones de productos (promedio del periodo) - Zinc - LME (¢US$ por libras)
+precio_wti,PN01660XM,COMMODITIES,Cotizaciones de productos (promedio del periodo) - Petróleo - WTI (US$ por barriles)
+pbi_mineria,PN01760AM,MINERIA,Producto bruto interno y demanda interna (índice 2007 = 100) - Minería e Hidrocarburos - Minería Metálica
+prod_cobre,PN01873AM,MINERIA,Producción minera e hidrocarburos (miles de unidades recuperables) - Minería Metálica - Cobre (miles de toneladas)
+prod_oro,PN01876AM,MINERIA,Producción minera e hidrocarburos (miles de unidades recuperables) - Minería Metálica - Oro (Kilogramos)
+prod_zinc,PN01879AM,MINERIA,Producción minera e hidrocarburos (miles de unidades recuperables) - Minería Metálica - Zinc (miles de toneladas)
+inversion_minera_yoy,PD37982GM,MINERIA,Indicadores de coyuntura - Inversión minera (var% real 12 meses)
+pbi_pesca,PN01758AM,PESCA,Producto bruto interno y demanda interna (índice 2007 = 100) - Pesca
+anchoveta_tn,PN01848AM,PESCA,Producción pesquera (miles de toneladas) - Pesca Marítima - Consumo Industrial - Anchoveta
+pesca_congelado_tn,PN01851AM,PESCA,Producción pesquera (miles de toneladas) - Pesca Marítima - Consumo Humano Directo - Congelado
+pesca_conservas_tn,PN01852AM,PESCA,Producción pesquera (miles de toneladas) - Pesca Marítima - Consumo Humano Directo - Conservas
+pesca_fresco_tn,PN01853AM,PESCA,Producción pesquera (miles de toneladas) - Pesca Marítima - Consumo Humano Directo - Fresco
+pbi_manufactura,PN01762AM,INDUSTRIA,Producto bruto interno y demanda interna (índice 2007 = 100) - Manufactura
+pbi_manufactura_no_primaria,PN01764AM,INDUSTRIA,Producto bruto interno y demanda interna (índice 2007 = 100) - Manufactura - Manufactura no Primaria
+pbi_construccion,PN01766AM,CONSTRUCCION,Producto bruto interno y demanda interna (índice 2007 = 100) - Construcción
+cemento_yoy,PD37967GM,CONSTRUCCION,Indicadores de coyuntura - Consumo interno de cemento (var% 12 meses)
+electricidad_gwh,PD37966AM,ENERGIA,Indicadores de coyuntura - Electricidad (GWH)
+electricidad_sin_mineria_gwh,PD38040AM,ENERGIA,Indicadores de coyuntura - Electricidad sin minería (GWH)
